@@ -1,9 +1,9 @@
 git demo
 here is one modified line
 another modify
-OK, here come the fourth line
+123OK, here come the fourth line
 the fifth line to understand to process
-the endline
+
 helloWorld
-
-
+123456
+dev is a new branch
